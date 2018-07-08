@@ -1,0 +1,41 @@
+/* {
+-fx-background-color : #2A2E37;
+-fx-text-fill: #B2B2B2;
+-fx-prompt-text-fill: #B2B2B2;
+}*/
+
+* {
+    -fx-text-fill: #B2B2B2;;
+}
+
+.table-view {
+    -fx-text-fill:#B2B2B2;;
+    -fx-border-color:#B2B2B2;
+}
+
+.text-field {
+    -fx-text-fill: #B2B2B2;
+    -fx-prompt-text-fill: #B2B2B2;
+    
+}
+
+.jfx-text-field {
+    -fx-text-fill: #B2B2B2;
+    -fx-prompt-text-fill: #B2B2B2;
+    -fx-background-color : #2A2E37;
+}
+
+ .jfx-button{
+    -fx-text-fill: #B2B2B2;
+    -fx-border-color: #B2B2B2;
+    -fx-border-radius: 20%;
+    -fx-background-radius: 20%;
+}
+
+
+.jfx-button:hover {
+    -fx-text-fill: #FFFF0D;
+    -fx-border-color: #FFFF0D;
+    -fx-background-radius: 20%;
+}
+
